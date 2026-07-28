@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo-cftc-bretagne.png" alt="CFTC Bretagne" width="200">
+<img src="logo cftc bretagne.png" alt="CFTC Bretagne" width="200">
 
 # 💙 Union Régionale CFTC Bretagne
 
