@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banniere-cftc-bretagne.png" alt="Bannière CFTC Bretagne" width="100%">
+  <img src="banniere-cftc-bretagne.png.png" alt="Bannière CFTC Bretagne" width="100%">
 </p>
 <div align="center">
 
