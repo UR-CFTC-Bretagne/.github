@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banniere-cftc-bretagne.png" alt="Bannière CFTC Bretagne" width="100%">
+</p>
 <div align="center">
 
 <img src="logo cftc bretagne.png" alt="CFTC Bretagne" width="200">
