@@ -50,6 +50,45 @@ Nous privilégions deux cadres complémentaires :
 
 Chaque initiative doit préciser son besoin, ses bénéficiaires, son responsable, ses livrables, ses moyens et ses critères de réussite. Les décisions institutionnelles relèvent des instances compétentes de l'UR CFTC Bretagne.
 
+## Nos principaux dépôts
+
+Les dépôts ci-dessous sont présentés par domaine d'usage, **sans classement de popularité**. Leur présence ne signifie pas qu'un service est déjà disponible en production.
+
+| Dépôt | Domaine | Accès |
+| --- | --- | --- |
+| **[cftc-mandats](https://github.com/UR-CFTC-Bretagne/cftc-mandats)** | Outils autour de la gestion des mandats | Public |
+| **[cftc-mandats-paritaires](https://github.com/UR-CFTC-Bretagne/cftc-mandats-paritaires)** | Outils relatifs aux mandats paritaires | Public |
+| **[fiche-de-frais](https://github.com/UR-CFTC-Bretagne/fiche-de-frais)** | Outils de gestion des frais | Public |
+| **[compte-rendus](https://github.com/UR-CFTC-Bretagne/compte-rendus)** | Outils relatifs aux comptes rendus | Public |
+| **[ur-cftc-bretagne](https://github.com/UR-CFTC-Bretagne/ur-cftc-bretagne)** | Espace de développement régional (dépôt actuellement vide) | Public |
+| **[.github](https://github.com/UR-CFTC-Bretagne/.github)** | Présentation de l'organisation | Public |
+
+## L'organisation en chiffres
+
+<div align="center">
+
+![Dépôts publics](https://img.shields.io/badge/D%C3%A9p%C3%B4ts%20publics-6-005BAC?style=for-the-badge)
+![Axes stratégiques](https://img.shields.io/badge/Axes%20de%20travail-5-2E8B57?style=for-the-badge)
+![Territoire](https://img.shields.io/badge/Territoire-Bretagne-005BAC?style=for-the-badge)
+
+</div>
+
+*Chiffres constatés le 25 octobre 2026. Les badges ci-dessus sont statiques et doivent être actualisés lorsque l'organisation évolue.*
+
+### Activité et suivi des projets
+
+Pour consulter les données à jour, GitHub fournit directement les indicateurs par dépôt :
+
+- **Stars** : intérêt exprimé par les utilisateurs ;
+- **Forks** : copies destinées notamment aux contributions ;
+- **Issues** : demandes, anomalies et travaux suivis ;
+- **Pull requests** : propositions de modifications ;
+- **Commits** : historique des évolutions.
+
+➡️ **[Explorer tous les dépôts et leurs indicateurs](https://github.com/orgs/UR-CFTC-Bretagne/repositories)**
+
+Ces indicateurs mesurent l'activité technique ; ils ne remplacent pas les indicateurs d'utilité syndicale, d'adoption ou de qualité de service.
+
 ## Dépôts et organisation
 
 - **[ur-cftc-bretagne](https://github.com/UR-CFTC-Bretagne/ur-cftc-bretagne)** : dépôt destiné aux développements numériques de l'Union régionale.
