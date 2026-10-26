@@ -63,31 +63,33 @@ Les dépôts ci-dessous sont présentés par domaine d'usage, **sans classement 
 | **[ur-cftc-bretagne](https://github.com/UR-CFTC-Bretagne/ur-cftc-bretagne)** | Espace de développement régional (dépôt actuellement vide) | Public |
 | **[.github](https://github.com/UR-CFTC-Bretagne/.github)** | Présentation de l'organisation | Public |
 
-## L'organisation en chiffres
+## Tableau de bord GitHub
+
+Les indicateurs ci-dessous sont **actualisés automatiquement par Shields.io** à partir des données publiques GitHub. Ils renseignent sur l'activité des dépôts, pas sur le nombre de mandatés ni sur la qualité des services rendus.
 
 <div align="center">
 
-![Dépôts publics](https://img.shields.io/badge/D%C3%A9p%C3%B4ts%20publics-6-005BAC?style=for-the-badge)
-![Axes stratégiques](https://img.shields.io/badge/Axes%20de%20travail-5-2E8B57?style=for-the-badge)
-![Territoire](https://img.shields.io/badge/Territoire-Bretagne-005BAC?style=for-the-badge)
+[![Dépôts publics](https://img.shields.io/github/repos/UR-CFTC-Bretagne?style=for-the-badge&label=D%C3%A9p%C3%B4ts%20publics&color=005BAC)](https://github.com/orgs/UR-CFTC-Bretagne/repositories)
+![Axes de travail](https://img.shields.io/badge/Axes%20de%20travail-5-2E8B57?style=for-the-badge)
 
 </div>
 
-*Chiffres constatés le 25 octobre 2026. Les badges ci-dessus sont statiques et doivent être actualisés lorsque l'organisation évolue.*
+### Activité des principaux projets
 
-### Activité et suivi des projets
+| Dépôt | Popularité | Contributions | Suivi |
+| --- | --- | --- | --- |
+| [cftc-mandats](https://github.com/UR-CFTC-Bretagne/cftc-mandats) | ![Stars](https://img.shields.io/github/stars/UR-CFTC-Bretagne/cftc-mandats?style=flat-square) | ![Forks](https://img.shields.io/github/forks/UR-CFTC-Bretagne/cftc-mandats?style=flat-square) | ![Issues](https://img.shields.io/github/issues/UR-CFTC-Bretagne/cftc-mandats?style=flat-square) |
+| [cftc-mandats-paritaires](https://github.com/UR-CFTC-Bretagne/cftc-mandats-paritaires) | ![Stars](https://img.shields.io/github/stars/UR-CFTC-Bretagne/cftc-mandats-paritaires?style=flat-square) | ![Forks](https://img.shields.io/github/forks/UR-CFTC-Bretagne/cftc-mandats-paritaires?style=flat-square) | ![Issues](https://img.shields.io/github/issues/UR-CFTC-Bretagne/cftc-mandats-paritaires?style=flat-square) |
+| [fiche-de-frais](https://github.com/UR-CFTC-Bretagne/fiche-de-frais) | ![Stars](https://img.shields.io/github/stars/UR-CFTC-Bretagne/fiche-de-frais?style=flat-square) | ![Forks](https://img.shields.io/github/forks/UR-CFTC-Bretagne/fiche-de-frais?style=flat-square) | ![Issues](https://img.shields.io/github/issues/UR-CFTC-Bretagne/fiche-de-frais?style=flat-square) |
+| [compte-rendus](https://github.com/UR-CFTC-Bretagne/compte-rendus) | ![Stars](https://img.shields.io/github/stars/UR-CFTC-Bretagne/compte-rendus?style=flat-square) | ![Forks](https://img.shields.io/github/forks/UR-CFTC-Bretagne/compte-rendus?style=flat-square) | ![Issues](https://img.shields.io/github/issues/UR-CFTC-Bretagne/compte-rendus?style=flat-square) |
+| [ur-cftc-bretagne](https://github.com/UR-CFTC-Bretagne/ur-cftc-bretagne) | ![Stars](https://img.shields.io/github/stars/UR-CFTC-Bretagne/ur-cftc-bretagne?style=flat-square) | ![Forks](https://img.shields.io/github/forks/UR-CFTC-Bretagne/ur-cftc-bretagne?style=flat-square) | ![Issues](https://img.shields.io/github/issues/UR-CFTC-Bretagne/ur-cftc-bretagne?style=flat-square) |
+| [.github](https://github.com/UR-CFTC-Bretagne/.github) | ![Stars](https://img.shields.io/github/stars/UR-CFTC-Bretagne/.github?style=flat-square) | ![Forks](https://img.shields.io/github/forks/UR-CFTC-Bretagne/.github?style=flat-square) | ![Issues](https://img.shields.io/github/issues/UR-CFTC-Bretagne/.github?style=flat-square) |
 
-Pour consulter les données à jour, GitHub fournit directement les indicateurs par dépôt :
+### Historique et évolutions
 
-- **Stars** : intérêt exprimé par les utilisateurs ;
-- **Forks** : copies destinées notamment aux contributions ;
-- **Issues** : demandes, anomalies et travaux suivis ;
-- **Pull requests** : propositions de modifications ;
-- **Commits** : historique des évolutions.
+Les **commits**, **pull requests**, **releases** et **contributeurs** sont consultables dans chaque dépôt. [Explorer tous les projets](https://github.com/orgs/UR-CFTC-Bretagne/repositories).
 
-➡️ **[Explorer tous les dépôts et leurs indicateurs](https://github.com/orgs/UR-CFTC-Bretagne/repositories)**
-
-Ces indicateurs mesurent l'activité technique ; ils ne remplacent pas les indicateurs d'utilité syndicale, d'adoption ou de qualité de service.
+*Les badges dépendent du service tiers Shields.io et peuvent temporairement être indisponibles ou afficher des données mises en cache. Le nombre d'axes de travail est un indicateur éditorial, non un compteur GitHub.*
 
 ## Dépôts et organisation
 
