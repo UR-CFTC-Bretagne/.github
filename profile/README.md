@@ -50,18 +50,30 @@ Nous privilégions deux cadres complémentaires :
 
 Chaque initiative doit préciser son besoin, ses bénéficiaires, son responsable, ses livrables, ses moyens et ses critères de réussite. Les décisions institutionnelles relèvent des instances compétentes de l'UR CFTC Bretagne.
 
-## Nos principaux dépôts
+## Portefeuille des projets numériques
 
-Les dépôts ci-dessous sont présentés par domaine d'usage, **sans classement de popularité**. Leur présence ne signifie pas qu'un service est déjà disponible en production.
+Ce tableau décrit **l'état annoncé dans la documentation des dépôts**, et non une homologation ou une disponibilité en production. Les responsables, budgets et échéances doivent être confirmés par les instances compétentes.
 
-| Dépôt | Domaine | Accès |
+| Projet | Objectif opérationnel | Situation documentée | Prochaine étape de pilotage |
+| --- | --- | --- | --- |
+| **[Gestion des mandatés](https://github.com/UR-CFTC-Bretagne/cftc-mandats)** | Centraliser les mandats et suivre les échéances | Application interne décrite ; disponibilité opérationnelle non vérifiée | Vérifier les tests, les habilitations et les conditions de déploiement |
+| **[Mandats paritaires](https://github.com/UR-CFTC-Bretagne/cftc-mandats-paritaires)** | Suivre candidatures, désignations et renouvellements | Cahier des charges évolutif ; développement en cours, non homologué | Valider les règles métier et la matrice des responsabilités |
+| **[Fiches de frais](https://github.com/UR-CFTC-Bretagne/fiche-de-frais)** | Dématérialiser les remboursements et contrôles | Cadrage et développement ; pas de version exploitable annoncée | Arbitrer les barèmes contradictoires et tester les workflows |
+| **[MANDAT’CR — Comptes rendus](https://github.com/UR-CFTC-Bretagne/compte-rendus)** | Recueillir les comptes rendus et produire des rapports d'activité | Initialisation ; application non déployable à ce stade | Définir un premier parcours de saisie, validation et archivage |
+| **[Développements régionaux](https://github.com/UR-CFTC-Bretagne/ur-cftc-bretagne)** | Accueillir des développements transversaux | Dépôt vide lors du contrôle | Définir le périmètre avant d'y ajouter du code |
+| **[Présentation GitHub](https://github.com/UR-CFTC-Bretagne/.github)** | Informer et orienter les contributeurs | Profil public et tableau de bord disponibles | Actualiser les informations et les indicateurs |
+
+### Indicateurs de pilotage proposés
+
+| Indicateur | Définition | Source à établir |
 | --- | --- | --- |
-| **[cftc-mandats](https://github.com/UR-CFTC-Bretagne/cftc-mandats)** | Outils autour de la gestion des mandats | Public |
-| **[cftc-mandats-paritaires](https://github.com/UR-CFTC-Bretagne/cftc-mandats-paritaires)** | Outils relatifs aux mandats paritaires | Public |
-| **[fiche-de-frais](https://github.com/UR-CFTC-Bretagne/fiche-de-frais)** | Outils de gestion des frais | Public |
-| **[compte-rendus](https://github.com/UR-CFTC-Bretagne/compte-rendus)** | Outils relatifs aux comptes rendus | Public |
-| **[ur-cftc-bretagne](https://github.com/UR-CFTC-Bretagne/ur-cftc-bretagne)** | Espace de développement régional (dépôt actuellement vide) | Public |
-| **[.github](https://github.com/UR-CFTC-Bretagne/.github)** | Présentation de l'organisation | Public |
+| Avancement | Jalons réalisés / jalons prévus | Issues, projets et feuilles de route |
+| Qualité | Tests validés, anomalies critiques et revues de sécurité | CI, rapports de tests, audits |
+| Adoption | Utilisateurs actifs autorisés, sans identification publique | Mesures internes agrégées |
+| Utilité syndicale | Temps administratif évité, échéances sécurisées, comptes rendus traités | Bilan interne validé |
+| Gouvernance | Responsable désigné, décisions prises et points bloquants | Suivi SMART/RACI interne |
+
+**Aucun pourcentage d'avancement, chiffre d'adoption ou date de mise en service n'est publié sans source vérifiée.** Les données personnelles et les informations confidentielles restent hors des dépôts publics.
 
 ## Tableau de bord GitHub
 
